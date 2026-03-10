@@ -1,0 +1,68 @@
+{
+  "firstName": "Anastasiya",
+  "lastName": "Barsuk",
+  "hobbies": ["embroidery", "drawing"],
+  "primaryEducation": [
+    {
+      "institution": "BSEU (Belarus State Economic University)",
+      "specialization": "Economics",
+      "graduationYear": 2017
+    },
+    {
+      "institution": "RIHE (Republican Institute of Higher Education)",
+      "specialization": "Teacher",
+      "graduationYear": 2025
+    }
+  ],
+  "additionalEducation": [
+    {
+      "institution": "Belhard Academy",
+      "specialization": "Software Testing (Level 1,2)",
+      "graduationYear": 2026
+    }
+  ],
+  "skills": [
+    "Test design techniques: Equivalence Partitioning, Boundary Value Analysis",
+    "requirements analysis",
+    "test plan creation",
+    "check-lists & test-cases design",
+    "bug reporting",
+    "test summary reporting",
+    "API testing basics",
+    "HTTP (Request/Response structure)"
+  ],
+  "tools": ["Git", "GitHub"],
+  "programmingLanguages": ["SQL"],
+  "projects": [
+    {
+      "projectName": "Calculator",
+      "description": "Full testing cycle of a calculator application, documenting 36 defects.",
+      "role": "QA Engineer",
+      "responsibilities": [
+        "functional testing",
+        "test documentation creation"
+      ]
+    }
+  ],
+  "workExperience": [
+    "Manager at Medical Tourism Center"
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "level": "Native"
+    },
+    {
+      "language": "Korean",
+      "level": "Fluent"
+    }
+  ],
+  "location": "South Korea",
+  "contacts": [
+    {
+      "type": "email",
+      "value": "nastiyabarsyk@gmail.com"
+    }
+  ],
+  "gitHub": "https://github.com/nastiyabarsyk-ops"
+}
